@@ -56,7 +56,7 @@ El proyecto busca **fomentar el aprendizaje práctico y seguro**, alineado con l
 ## 📸 Capturas del juego
 ![celdas](celdas.png)
 ![lego_celdas](lego_celdas.png)
-![baterias](baterias.png)
+![baterias](baterias_litio.png)
 ![cinta niquel](cinta_niquel.png)
 ![soldador_punto](soldador_punto.png)
 ![voltimetro](voltimetro.png)
