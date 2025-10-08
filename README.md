@@ -54,7 +54,16 @@ El proyecto busca **fomentar el aprendizaje práctico y seguro**, alineado con l
 ---
 
 ## 📸 Capturas del juego
-![](images/nivel_final.png)
+![celdas](celdas.png)
+![lego_celdas](lego_celdas.png)
+![baterias](baterias.png)
+![cinta niquel](cinta_niquel.png)
+![soldador_punto](soldador_punto.png)
+![voltimetro](voltimetro.png)
+![caja_pilas](caja_pilas.png)
+![Mesa trabajo VR](mesa_trabajo_VR.png)
+
+
 
 ## 🎥 Demostración del simulador
 [![Ver vídeo en YouTube o Drive](https://img.youtube.com/vi/XXXXXXXXXXX/0.jpg)](https://drive.google.com/file/d/XXXXXXXXXXX/view?usp=sharing)
