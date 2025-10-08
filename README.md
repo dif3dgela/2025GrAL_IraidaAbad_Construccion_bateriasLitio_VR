@@ -66,7 +66,7 @@ El proyecto busca **fomentar el aprendizaje práctico y seguro**, alineado con l
 
 
 ## 🎥 Demostración del simulador
-![Vídeo demostración práctica completa (correcta)](https://drive.google.com/file/d/1k-sNFO1pCRtcw1-H20zH8s8DMCzgR879/view?usp=sharing)
+[Vídeo demostración práctica completa (correcta)](https://drive.google.com/file/d/1k-sNFO1pCRtcw1-H20zH8s8DMCzgR879/view?usp=sharing)
 
-![Vídeo demostración práctica completa (incorrecta)](https://drive.google.com/file/d/1k-sNFO1pCRtcw1-H20zH8s8DMCzgR879/view?usp=sharing)
+[Vídeo demostración práctica completa (incorrecta)](https://drive.google.com/file/d/1k-sNFO1pCRtcw1-H20zH8s8DMCzgR879/view?usp=sharing)
 
